@@ -1,0 +1,15 @@
+E:\wa-app-chrome\wasender\ProjectCommon\bin\Release\ProjectCommon.dll
+E:\wa-app-chrome\wasender\ProjectCommon\bin\Release\ProjectCommon.pdb
+E:\wa-app-chrome\wasender\ProjectCommon\bin\Release\KeySecurity.dll
+E:\wa-app-chrome\wasender\ProjectCommon\bin\Release\Models.dll
+E:\wa-app-chrome\wasender\ProjectCommon\bin\Release\Newtonsoft.Json.dll
+E:\wa-app-chrome\wasender\ProjectCommon\bin\Release\System.Data.SQLite.dll
+E:\wa-app-chrome\wasender\ProjectCommon\bin\Release\System.Data.SQLite.EF6.dll
+E:\wa-app-chrome\wasender\ProjectCommon\bin\Release\System.Data.SQLite.Linq.dll
+E:\wa-app-chrome\wasender\ProjectCommon\bin\Release\WebDriver.dll
+E:\wa-app-chrome\wasender\ProjectCommon\bin\Release\FluentValidation.dll
+E:\wa-app-chrome\wasender\ProjectCommon\obj\Release\ProjectCommon.csproj.AssemblyReference.cache
+E:\wa-app-chrome\wasender\ProjectCommon\obj\Release\ProjectCommon.csproj.CoreCompileInputs.cache
+E:\wa-app-chrome\wasender\ProjectCommon\obj\Release\ProjectC.6432CAE7.Up2Date
+E:\wa-app-chrome\wasender\ProjectCommon\obj\Release\ProjectCommon.dll
+E:\wa-app-chrome\wasender\ProjectCommon\obj\Release\ProjectCommon.pdb
